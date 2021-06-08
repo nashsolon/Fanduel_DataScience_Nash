@@ -324,6 +324,7 @@ for i in range(0, 50):
     FPPG_teams_df = FPPG_teams_df.append(single_team_df)
 
     print()
+    print('New change!')
 
     # del single_team_df
 
